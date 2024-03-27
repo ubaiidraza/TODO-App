@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.backimg {
+    background-color: #000;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.inputbox {
+    width: 400px;
+    /* height: 420px; */
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid #fff;
+    /* background-color: aqua;    */
+}
+
+.inputbox:hover {
+    box-shadow: 6px 4px 7px #d60d0d;
+}
+
+.inputbox h1 {
+    color: aqua;
+}
+
+.inputbox input {
+    width: 323px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color: #0e0d0d;
+}
+
+.inputbox button {
+    padding: 5px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4c0cfc;
+    border: none;
+}  
+
+div ol> li {
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.icon {
+    width: 25px;
+}
